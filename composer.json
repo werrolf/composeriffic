@@ -1,0 +1,14 @@
+{
+    "name": "werrolf/composeriffic",
+    "description": "A test for things",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.x-dev",
+            "0.x-dev": "0.1.x-dev"
+        }
+    }
+}
